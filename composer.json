@@ -1,0 +1,28 @@
+{
+    "name": "sscs/aliyun-php-sdk-vod",
+    "description": "aliyun-php-sdk-vod composer pack",
+    "keywords": [
+        "aliyun",
+        "aliyun-php-sdk-vod",
+        "aliyunvod",
+        "vod"
+    ],
+    "license": "MIT",
+    "homepage": "https://www.aliyun.com",
+    "authors": [
+        {
+            "name": "sscs",
+            "email": "laosql@163.com",
+            "homepage": "https://www.rockjun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "vod\\Request\\V20170321\\": "aliyun-php-sdk-vod/vod/Request/V20170321/"
+        }
+    }
+}
