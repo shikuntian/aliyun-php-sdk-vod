@@ -18,7 +18,7 @@
  * under the License.
  */
 namespace vod\Request\V20170321;
-use Aliyun\Core\RpcAcsRequest;// sscs update
+use RpcAcsRequest;// sscs update
 class GetPlayInfoRequest extends RpcAcsRequest
 {
 	function  __construct()
