@@ -1,7 +1,7 @@
 {
   "name": "shikuntian/aliyun-php-sdk-vod",
   "description": "aliyun-php-sdk-vod composer pack",
-  "version": "1.0.2-beta",
+  "version": "1.0.0",
   "keywords": [
     "aliyun",
     "aliyun-php-sdk-vod",
